@@ -1,5 +1,5 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11101312&assignment_repo_type=AssignmentRepo)
-# Classificació de gèneres musicals Grup 11
+# Classificació de gèneres musicals
 
 L'objectiu d'aquest projecte és classificar música en 163 gèneres diferents utilitzant atributs extrets o analitzant les pistes dels arxius MP3. Per aconseguir-ho, es farà servir una combinació de xarxes neuronals convolucionals (CNN) i xarxes neuronals recurrents (RNN).
 
